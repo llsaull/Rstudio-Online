@@ -1,4 +1,5 @@
+#!/bin/bash
 git config --global user.email jovyan@example.com
 git config --global user.name jovyan
-git config credential.helper store
-Rscript install.R
+git config --global credential.helper store
+Rscript ~/install.R

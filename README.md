@@ -4,4 +4,4 @@ Este repositório é usado para rodar o RStudio online, todas as dependências d
 
 Você não precisa utilizar essa ferramenta para fazer suas listas, isso só é recomendado para os alunos que não desejam baixar o RStudio em suas máquinas.
 
-[https://mybinder.org/v2/gh/Prof-Saul-Leite/RStudio.git/master](RStudio Online)
+[RStudio Online](https://mybinder.org/v2/gh/Prof-Saul-Leite/RStudio.git/master)

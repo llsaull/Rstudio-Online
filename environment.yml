@@ -8,3 +8,4 @@ dependencies:
   - r-kernlab
   - r-kknn
   - r-glmnet
+  - r-reticulate

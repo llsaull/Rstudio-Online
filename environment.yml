@@ -7,3 +7,4 @@ dependencies:
   - r-tidymodels
   - r-kernlab
   - r-kknn
+  - r-glmnet

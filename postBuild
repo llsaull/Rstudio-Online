@@ -1,5 +1,5 @@
 #!/bin/bash
-git config --global user.email jovyan@example.com
-git config --global user.name jovyan
+#git config --global user.email SEU_LOGIN@aluno.ufabc.edu.br
+#git config --global user.name SEU_NOME
 git config --global credential.helper store
 Rscript ~/install.R

@@ -10,3 +10,4 @@ dependencies:
   - r-glmnet
   - r-islr
   - r-leaps
+  - r-car

@@ -10,3 +10,5 @@ dependencies:
   - r-glmnet
   - r-leaps
   - r-car
+  - r-mlbench
+  - r-skimr

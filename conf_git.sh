@@ -6,4 +6,3 @@ read email
 git config --global user.email $email
 git config --global user.name $login
 git config --global credential.helper store
-Rscript ~/install.R

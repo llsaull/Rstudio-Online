@@ -12,3 +12,4 @@ dependencies:
   - r-car
   - r-mlbench
   - r-skimr
+  - r-klar

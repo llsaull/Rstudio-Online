@@ -13,3 +13,8 @@ dependencies:
   - r-mlbench
   - r-skimr
   - r-klar
+  - r-rpart
+  - r-rpart.plot
+  - r-xgboost
+  - r-randomforest
+  - r-keras

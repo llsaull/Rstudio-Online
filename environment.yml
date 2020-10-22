@@ -17,4 +17,6 @@ dependencies:
   - r-rpart.plot
   - r-xgboost
   - r-randomforest
+  - r-vip
   - r-keras
+  - tensorflow

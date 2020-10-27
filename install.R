@@ -1,4 +1,6 @@
 library(tinytex)
 tinytex::install_tinytex()
-#library(keras)
-#install_keras(method="conda", conda="/srv/conda/condabin/conda")
+library(reticulate)
+install_miniconda()
+library(keras)
+install_keras()

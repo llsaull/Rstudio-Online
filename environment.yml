@@ -3,20 +3,4 @@ channels:
 dependencies:
   - r-base=4.0.3
   - r-tidyverse
-  - r-knitr
-  - r-tidymodels
-  - r-kernlab
-  - r-kknn
-  - r-glmnet
-  - r-leaps
-  - r-car
-  - r-mlbench
-  - r-skimr
-  - r-klar
-  - r-rpart
-  - r-rpart.plot
-  - r-xgboost
-  - r-randomforest
-  - r-vip
-  - r-keras
-  - r-tensorflow
+  - r-plot3d

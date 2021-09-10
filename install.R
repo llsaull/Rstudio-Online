@@ -1,6 +1,0 @@
-library(tinytex)
-tinytex::install_tinytex()
-#library(reticulate)
-#install_miniconda()
-#library(keras)
-#install_keras()
